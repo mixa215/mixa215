@@ -12,7 +12,7 @@ Teaching disciplines:
 8. Manual and automated software testing
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact" 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact" 
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
 <!--
 **mixa215/mixa215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
