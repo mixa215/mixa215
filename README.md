@@ -12,6 +12,7 @@ Teaching disciplines:
 8. Manual and automated software testing
 
 <iframe>https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact</iframe>
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg)](http://www.youtube.com/watch?v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE)
 <!--
 **mixa215/mixa215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
