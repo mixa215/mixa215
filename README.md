@@ -1,4 +1,4 @@
-<h1> Hi there 👋, my name is Mihail Bagdasaryan</h1><br>
+<h1> Hi there 👋, my name is Mihail Bagdasaryan</h1>
 <h2>Computer science teacher</h2>
 
 Teaching disciplines:
