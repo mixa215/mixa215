@@ -16,7 +16,7 @@ Teaching disciplines:
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="180" height="180" border="10" /></a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact" 
-alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="100" border="10" /></a>
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="50" border="10" /></a>
 <!--
 **mixa215/mixa215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
