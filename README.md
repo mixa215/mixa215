@@ -11,7 +11,7 @@ Teaching disciplines:
 7. Python
 8. Manual and automated software testing
 
-<h3>Connect with me:
+<h3>Connect with me:</h3><br>
 <a href="https://vk.com/id7669012" target="_blank"><img src="https://www.iguides.ru/upload/iblock/a97/a97a5cb533918c1815d007d248ce73a2.jpg" 
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="200" height="100" border="10" /></a><br>
 
