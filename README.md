@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mihail Bagdasaryan
-<center>Computer science teacher</center>
+<b>Computer science teacher</b>
 
 <h1> Teaching disciplines:</h1><br>
 1. Theory of algorithms for programmers;
