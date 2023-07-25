@@ -1,4 +1,6 @@
 ### Hi there 👋, my name is Mihail Bagdasaryan
+computer science teacher
+
 
 <!--
 **mixa215/mixa215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
