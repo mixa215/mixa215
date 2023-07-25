@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mihail Bagdasaryan
-computer science teacher
+<center>Computer science teacher</center>
 
-<h1> Teaching disciplines:</h1>
+<h1> Teaching disciplines:</h1><br>
 1. Theory of algorithms for programmers;
 2. Front-end web development;
 3. System programming (OOP);
