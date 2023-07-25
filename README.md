@@ -11,6 +11,7 @@ Teaching disciplines:
 7. Python
 8. Manual and automated software testing
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact
 <!--
 **mixa215/mixa215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
