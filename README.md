@@ -11,8 +11,8 @@ Teaching disciplines:
 7. Python
 8. Manual and automated software testing
 
-<iframe>https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact</iframe>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE" target="_blank"><img src="http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg" 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixa215&layout=compact" 
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
 <!--
 **mixa215/mixa215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
