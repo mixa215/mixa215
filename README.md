@@ -8,7 +8,7 @@ Teaching disciplines:
 4. Computer networks;
 5. Operating systems and environments.
 6. SQL
-7. <a target='_blank' href='https://github.com/mixa215/testqa'>Python</a>
+7. <a target="_blank" href='https://github.com/mixa215/testqa'>Python</a>
 8. Manual and automated software testing
 
 <h3>Connect with me:</h3><br>
